@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842847331814",
+    "project_id": "day4-kanbara",
+    "storage_bucket": "day4-kanbara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842847331814:android:0bd8439464119c20a4e227",
+        "android_client_info": {
+          "package_name": "com.mycompany.day4kanbara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0k5rJCea5xVsBgTXUQmNndXCx-v-Zvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
